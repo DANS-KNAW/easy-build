@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>nl.knaw.dans.easy</groupId>
+    <artifactId>easy-build</artifactId>
+    <version>2.x-SNAPSHOT</version>
+    <name>EASY Master Build</name>
+    <packaging>pom</packaging>
+    <modules>
+        <module>../dans-parent</module>
+        <module>../easy-archive-bag</module>
+        <module>../easy-deposit</module>
+        <module>../easy-fcrepo-validate-checksums</module>
+        <module>../easy-ingest</module>
+        <module>../easy-stage-dataset</module>
+        <module>../easy-update-fs-rdb</module>
+        <module>../easy-update-solr-index</module>
+    </modules>
+</project>
