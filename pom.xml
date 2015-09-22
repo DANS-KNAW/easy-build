@@ -15,6 +15,7 @@
         <module>../easy-ingest-flow</module>
         <module>../easy-ingest-dispatcher</module>
         <module>../easy-stage-dataset</module>
+        <module>../easy-sword2-lib</module>
         <module>../easy-update-fs-rdb</module>
         <module>../easy-update-solr-index</module>
     </modules>
