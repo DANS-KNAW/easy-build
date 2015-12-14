@@ -9,6 +9,7 @@
     <modules>
         <module>../easy-archive-bag</module>
         <module>../easy-deposit</module>
+        <module>../easy-export-dataset</module>
         <module>../easy-fcrepo-validate-checksums</module>
         <module>../easy-ingest</module>
         <module>../easy-ingest-dispatcher</module>
