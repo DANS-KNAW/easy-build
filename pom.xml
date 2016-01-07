@@ -4,6 +4,7 @@
     <groupId>nl.knaw.dans.easy</groupId>
     <artifactId>easy-build</artifactId>
     <version>2.x-SNAPSHOT</version>
+    <inceptionYear>2015-2016</inceptionYear>
     <name>EASY Master Build</name>
     <packaging>pom</packaging>
     <modules>
