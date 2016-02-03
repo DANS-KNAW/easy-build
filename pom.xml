@@ -16,7 +16,8 @@
         <module>../easy-ingest-dispatcher</module>
         <module>../easy-ingest-flow</module>
         <module>../easy-pid-generator</module>
-        <module>../easy-process-sip</module>
+        <module>../easy-schema</module>
+        <module>../easy-split-multi-deposit</module>
         <module>../easy-stage-dataset</module>
         <module>../easy-sword2-lib</module>
         <module>../easy-update-fs-rdb</module>
