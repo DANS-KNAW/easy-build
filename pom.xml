@@ -15,6 +15,7 @@
         <module>../easy-ingest</module>
         <module>../easy-ingest-dispatcher</module>
         <module>../easy-ingest-flow</module>
+        <module>../easy-module-archetype</module>
         <module>../easy-pid-generator</module>
         <module>../easy-schema</module>
         <module>../easy-split-multi-deposit</module>
