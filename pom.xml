@@ -9,7 +9,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>../easy-archive-bag</module>
-        <module>../easy-deposit</module>
         <module>../easy-export-dataset</module>
         <module>../easy-fcrepo-validate-checksums</module>
         <module>../easy-ingest</module>
@@ -21,6 +20,7 @@
         <module>../easy-schema</module>
         <module>../easy-split-multi-deposit</module>
         <module>../easy-stage-dataset</module>
+        <module>../easy-sword2</module>
         <module>../easy-sword2-lib</module>
         <module>../easy-update-fs-rdb</module>
         <module>../easy-update-solr-index</module>
