@@ -8,7 +8,9 @@
     <name>EASY Master Build</name>
     <packaging>pom</packaging>
     <modules>
+        <module>../easy-app</module>
         <module>../easy-archive-bag</module>
+        <module>../easy-bag-store</module>
         <module>../easy-export-dataset</module>
         <module>../easy-fcrepo-validate-checksums</module>
         <module>../easy-ingest</module>
