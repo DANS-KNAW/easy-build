@@ -23,6 +23,7 @@
         <module>../easy-split-multi-deposit</module>
         <module>../easy-stage-dataset</module>
         <module>../easy-sword2</module>
+        <module>../easy-sword2-dans-examples</module>
         <module>../easy-sword2-lib</module>
         <module>../easy-update-fs-rdb</module>
         <module>../easy-update-solr-index</module>
