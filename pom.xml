@@ -27,6 +27,7 @@
         <module>../easy-sword2-dans-examples</module>
         <module>../easy-sword2-lib</module>
         <module>../easy-update-fs-rdb</module>
+        <module>../easy-update-metadata-dataset</module>
         <module>../easy-update-solr-index</module>
     </modules>
 </project>
