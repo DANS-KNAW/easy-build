@@ -20,6 +20,7 @@
         <module>../easy-license-creator</module>
         <module>../easy-module-archetype</module>
         <module>../easy-pid-generator</module>
+        <module>../easy-public-doc</module>
         <module>../easy-schema</module>
         <module>../easy-split-multi-deposit</module>
         <module>../easy-stage-dataset</module>
