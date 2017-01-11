@@ -11,6 +11,7 @@
         <module>../easy-app</module>
         <module>../easy-archive-bag</module>
         <module>../easy-bag-store</module>
+        <module>../easy-bag-store-index</module>
         <module>../easy-export-dataset</module>
         <module>../easy-fcrepo-validate-checksums</module>
         <module>../easy-ingest</module>
