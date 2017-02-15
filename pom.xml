@@ -9,6 +9,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>../easy-app</module>
+        <module>../easy-ansible-role-archetype</module>
         <module>../easy-archive-bag</module>
         <module>../easy-bag-store</module>
         <module>../easy-bag-index</module>
@@ -23,6 +24,7 @@
         <module>../easy-public-doc</module>
         <module>../easy-schema</module>
         <module>../easy-split-multi-deposit</module>
+        <module>../easy-springfield</module>
         <module>../easy-stage-dataset</module>
         <module>../easy-sword2</module>
         <module>../easy-sword2-dans-examples</module>
