@@ -8,6 +8,7 @@
     <name>EASY Master Build</name>
     <packaging>pom</packaging>
     <modules>
+        <module>../easy-add-new-license</module>
         <module>../easy-app</module>
         <module>../easy-ansible-role-archetype</module>
         <module>../easy-archive-bag</module>
