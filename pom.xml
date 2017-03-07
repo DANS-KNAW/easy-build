@@ -15,6 +15,8 @@
         <module>../easy-bag-store</module>
         <module>../easy-bag-index</module>
         <module>../easy-change-accessrights-to-cc0</module>
+        <module>../easy-ddm</module>
+        <module>../easy-emd</module>
         <module>../easy-export-dataset</module>
         <module>../easy-fcrepo-validate-checksums</module>
         <module>../easy-ingest</module>
