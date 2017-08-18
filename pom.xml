@@ -35,5 +35,6 @@
         <module>../easy-update-fs-rdb</module>
         <module>../easy-update-metadata-dataset</module>
         <module>../easy-update-solr-index</module>
+        <module>../easy-update-solr4files-index</module>
     </modules>
 </project>
