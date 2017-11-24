@@ -11,11 +11,14 @@
         <module>../easy-add-new-license</module>
         <module>../easy-app</module>
         <module>../easy-archive-bag</module>
+        <module>../easy-auth-info</module>
         <module>../easy-bag-store</module>
         <module>../easy-bag-index</module>
         <module>../easy-change-accessrights-to-cc0</module>
         <module>../easy-datacite</module>
         <module>../easy-ddm</module>
+        <module>../easy-deposit-report</module>
+        <module>../easy-download</module>
         <module>../easy-emd</module>
         <module>../easy-export-dataset</module>
         <module>../easy-ingest</module>
