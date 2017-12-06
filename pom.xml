@@ -29,6 +29,7 @@
         <module>../easy-public-doc</module>
         <module>../easy-schema</module>
         <module>../easy-send-metadata-to-datacite</module>
+        <module>../easy-solr4files-index</module>
         <module>../easy-split-multi-deposit</module>
         <module>../easy-springfield</module>
         <module>../easy-stage-dataset</module>
@@ -38,6 +39,5 @@
         <module>../easy-update-fs-rdb</module>
         <module>../easy-update-metadata-dataset</module>
         <module>../easy-update-solr-index</module>
-        <module>../easy-update-solr4files-index</module>
     </modules>
 </project>
