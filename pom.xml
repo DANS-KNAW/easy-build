@@ -17,13 +17,13 @@
         <module>../easy-change-accessrights-to-cc0</module>
         <module>../easy-datacite</module>
         <module>../easy-ddm</module>
-        <module>../easy-deposit-report</module>
         <module>../easy-download</module>
         <module>../easy-emd</module>
         <module>../easy-export-dataset</module>
         <module>../easy-ingest</module>
         <module>../easy-ingest-flow</module>
         <module>../easy-license-creator</module>
+        <module>../easy-manage-deposit</module>
         <module>../easy-module-archetype</module>
         <module>../easy-pid-generator</module>
         <module>../easy-public-doc</module>
