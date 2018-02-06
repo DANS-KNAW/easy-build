@@ -36,6 +36,7 @@
         <module>../easy-sword2</module>
         <module>../easy-sword2-dans-examples</module>
         <module>../easy-sword2-lib</module>
+        <module>../easy-validate-dans-bag</module>
         <module>../easy-update-fs-rdb</module>
         <module>../easy-update-metadata-dataset</module>
         <module>../easy-update-solr-index</module>
