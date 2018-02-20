@@ -23,6 +23,7 @@
         <module>../easy-ingest</module>
         <module>../easy-ingest-flow</module>
         <module>../easy-license-creator</module>
+        <module>../easy-manage-curation-work</module>
         <module>../easy-manage-deposit</module>
         <module>../easy-module-archetype</module>
         <module>../easy-pid-generator</module>
