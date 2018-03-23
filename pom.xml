@@ -17,6 +17,7 @@
         <module>../easy-change-accessrights-to-cc0</module>
         <module>../easy-datacite</module>
         <module>../easy-ddm</module>
+        <module>../easy-delete-dataset</module>
         <module>../easy-deposit-api</module>
         <module>../easy-deposit-ui</module>
         <module>../easy-download</module>
