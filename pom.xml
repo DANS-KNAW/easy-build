@@ -34,7 +34,7 @@
         <module>../easy-pid-generator</module>
         <module>../easy-public-doc</module>
         <module>../easy-schema</module>
-        <module>../easy-schema-examples</module>
+<!--        <module>../easy-schema-examples</module> -->
         <module>../easy-send-metadata-to-datacite</module>
         <module>../easy-solr4files-index</module>
         <module>../easy-split-multi-deposit</module>
