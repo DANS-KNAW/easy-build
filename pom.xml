@@ -32,7 +32,6 @@
         <module>../easy-manage-deposit</module>
         <module>../easy-module-archetype</module>
         <module>../easy-pid-generator</module>
-        <module>../easy-public-doc</module>
         <module>../easy-schema</module>
         <module>../easy-schema-examples</module> 
         <module>../easy-send-metadata-to-datacite</module>
