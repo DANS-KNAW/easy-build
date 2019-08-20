@@ -21,6 +21,7 @@
         <module>../easy-ddm</module>
         <module>../easy-delete-dataset</module>
         <module>../easy-deposit-api</module>
+        <module>../easy-deposit-properties</module>
         <module>../easy-deposit-ui</module>
         <module>../easy-download</module>
         <module>../easy-emd</module>
