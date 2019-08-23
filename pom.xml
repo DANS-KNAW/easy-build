@@ -11,6 +11,7 @@
         <plugins>
             <plugin>
                 <artifactId>maven-deploy-plugin</artifactId>
+                <version>3.0.0-M1</version>
                 <configuration>
                     <skip>true</skip>
                 </configuration>
@@ -26,7 +27,6 @@
         <module>../easy-bag-index</module>
         <module>../easy-change-accessrights-to-cc0</module>
         <module>../easy-check-user-references</module>
-        <module>../easy-collect-curation-work</module>
         <module>../easy-datacite</module>
         <module>../easy-ddm</module>
         <module>../easy-delete-dataset</module>
@@ -38,7 +38,6 @@
         <module>../easy-ingest</module>
         <module>../easy-ingest-flow</module>
         <module>../easy-deposit-agreement-creator</module>
-        <module>../easy-manage-curation-work</module>
         <module>../easy-manage-deposit</module>
         <module>../easy-module-archetype</module>
         <module>../easy-pid-generator</module>
