@@ -37,6 +37,7 @@
         <module>../easy-export-dataset</module>
         <module>../easy-ingest</module>
         <module>../easy-ingest-flow</module>
+        <module>../easy-jibx-run</module>
         <module>../easy-deposit-agreement-creator</module>
         <module>../easy-manage-deposit</module>
         <module>../easy-module-archetype</module>
