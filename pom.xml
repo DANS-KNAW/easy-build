@@ -7,6 +7,17 @@
     <inceptionYear>2015-2016</inceptionYear>
     <name>EASY Master Build</name>
     <packaging>pom</packaging>
+    <build>
+        <plugins>
+            <plugin>
+                <artifactId>maven-deploy-plugin</artifactId>
+                <version>3.0.0-M1</version>
+                <configuration>
+                    <skip>true</skip>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
     <modules>
         <module>../easy-add-new-deposit-agreement</module>
         <module>../easy-app</module>
@@ -28,6 +39,7 @@
         <module>../easy-graphiql</module>
         <module>../easy-ingest</module>
         <module>../easy-ingest-flow</module>
+        <module>../easy-jibx-run</module>
         <module>../easy-deposit-agreement-creator</module>
 <!--        <module>../easy-licenses</module>-->
         <module>../easy-manage-deposit</module>
