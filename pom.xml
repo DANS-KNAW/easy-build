@@ -19,6 +19,7 @@
         </plugins>
     </build>
     <modules>
+        <module>../easy-access-category-change</module>
         <module>../easy-add-new-deposit-agreement</module>
         <module>../easy-app</module>
         <module>../easy-archive-bag</module>
@@ -36,6 +37,7 @@
         <module>../easy-download</module>
         <module>../easy-emd</module>
         <module>../easy-export-dataset</module>
+        <module>../easy-fedora2vault</module>
         <module>../easy-graphiql</module>
         <module>../easy-ingest</module>
         <module>../easy-ingest-flow</module>
