@@ -19,6 +19,7 @@
         </plugins>
     </build>
     <modules>
+        <module>../easy-access-category-change</module>
         <module>../easy-add-new-deposit-agreement</module>
         <module>../easy-app</module>
         <module>../easy-archive-bag</module>
