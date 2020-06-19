@@ -38,6 +38,7 @@
         <module>../easy-emd</module>
         <module>../easy-export-dataset</module>
         <module>../easy-fedora2vault</module>
+        <module>../easy-add-files-to-bag</module>
         <module>../easy-graphiql</module>
         <module>../easy-ingest</module>
         <module>../easy-ingest-flow</module>
