@@ -28,6 +28,7 @@
         <module>../easy-bag-index</module>
         <module>../easy-change-accessrights-to-cc0</module>
         <module>../easy-check-user-references</module>
+        <module>../easy-convert-bag-to-deposit</module>
         <module>../easy-datacite</module>
         <module>../easy-ddm</module>
         <module>../easy-delete-dataset</module>
@@ -37,7 +38,7 @@
         <module>../easy-download</module>
         <module>../easy-emd</module>
         <module>../easy-export-dataset</module>
-        <module>../easy-fedora2vault</module>
+        <module>../easy-fedora-to-bag</module>
         <module>../easy-add-files-to-bag</module>
         <module>../easy-graphiql</module>
         <module>../easy-ingest</module>
