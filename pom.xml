@@ -33,14 +33,12 @@
         <module>../easy-ddm</module>
         <module>../easy-delete-dataset</module>
         <module>../easy-deposit-api</module>
-<!--        <module>../easy-deposit-properties</module>-->
         <module>../easy-deposit-ui</module>
         <module>../easy-download</module>
         <module>../easy-emd</module>
         <module>../easy-export-dataset</module>
         <module>../easy-fedora-to-bag</module>
         <module>../easy-add-files-to-bag</module>
-<!--        <module>../easy-graphiql</module>-->
         <module>../easy-ingest</module>
         <module>../easy-ingest-flow</module>
         <module>../easy-jibx-run</module>
