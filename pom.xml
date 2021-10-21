@@ -64,5 +64,6 @@
         <module>../easy-update-fs-rdb</module>
         <module>../easy-update-metadata-dataset</module>
         <module>../easy-update-solr-index</module>
+        <module>../dd-migration-info</module>
     </modules>
 </project>
