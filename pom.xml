@@ -32,8 +32,6 @@
         <module>../easy-datacite</module>
         <module>../easy-ddm</module>
         <module>../easy-delete-dataset</module>
-        <module>../easy-deposit-api</module>
-        <module>../easy-deposit-ui</module>
         <module>../easy-download</module>
         <module>../easy-emd</module>
         <module>../easy-export-dataset</module>
