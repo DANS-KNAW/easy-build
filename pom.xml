@@ -19,15 +19,11 @@
         </plugins>
     </build>
     <modules>
-        <module>../easy-access-category-change</module>
-        <module>../easy-add-new-deposit-agreement</module>
         <module>../easy-app</module>
         <module>../easy-archive-bag</module>
         <module>../easy-auth-info</module>
         <module>../easy-bag-store</module>
         <module>../easy-bag-index</module>
-        <module>../easy-change-accessrights-to-cc0</module>
-        <module>../easy-check-user-references</module>
         <module>../easy-convert-bag-to-deposit</module>
         <module>../easy-datacite</module>
         <module>../easy-ddm</module>
@@ -44,24 +40,17 @@
         <module>../easy-deposit-agreement-generator</module>
         <module>../easy-licenses</module>
         <module>../easy-manage-deposit</module>
-        <module>../easy-module-archetype</module>
         <module>../easy-pid-generator</module>
         <module>../easy-schema</module>
-        <module>../easy-schema-examples</module> 
         <module>../easy-send-metadata-to-datacite</module>
         <module>../easy-solr4files-index</module>
         <module>../easy-split-multi-deposit</module>
         <module>../easy-springfield</module>
         <module>../easy-stage-dataset</module>
-        <module>../easy-stats</module>
         <module>../easy-sword2</module>
-        <module>../easy-sword2-dans-examples</module>
         <module>../easy-sword2-lib</module>
-        <module>../easy-transform-metadata</module>
         <module>../easy-validate-dans-bag</module>
         <module>../easy-update-fs-rdb</module>
-        <module>../easy-update-metadata-dataset</module>
         <module>../easy-update-solr-index</module>
-        <module>../dd-migration-info</module>
     </modules>
 </project>
